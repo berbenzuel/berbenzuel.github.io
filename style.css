@@ -3,3 +3,19 @@
     font-size: 30px;
     font-style: oblique;
 }
+
+section {
+    display: flex;
+}
+
+p.first{
+    flex: 1;
+}
+
+p.second {
+    flex: 2;
+}
+
+p.third {
+    flex: 3;
+}
